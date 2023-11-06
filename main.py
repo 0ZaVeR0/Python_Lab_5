@@ -13,7 +13,7 @@ while running:
     3. Delete object\n\
     4. Wipe memory\n\
     5. Save memory to file\n\
-    6. Load memory to file\n\
+    6. Load memory from file\n\
     7. Close program\n\
 ----------------------------------ZaVeR--")
 
